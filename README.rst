@@ -10,7 +10,7 @@ Steps:
 
 * Download each of the country source files (<CODE>.zip) to a common 
   directory and extract them. You will have 27 folders.
-* Run denorm.py (see below)
+* Run denorm.py (see below) for each country.
 * Load into OpenSpending
 * ??
 * Profit!
@@ -36,6 +36,8 @@ The output will be put into a CSV file (<CODE>.csv).
 
 Contact
 -------
+
+All credit for the amazing data work on this must go to http://farmsubsidy.org/. 
 
 * https://github.com/pudo/dpkg-eu-cap/issues
 
